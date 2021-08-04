@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SuperDev" type="GWT.ConfigurationType" factoryName="GWT Configuration">
+    <option name="RUN_PAGE" value="basic.html" />
+    <option name="START_JAVASCRIPT_DEBUGGER" value="true" />
+    <option name="USE_SUPER_DEV_MODE" value="true" />
+    <option name="WORKING_DIRECTORY" value="" />
+    <module name="basic" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
