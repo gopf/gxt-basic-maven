@@ -11,4 +11,11 @@
         <welcome-file>basic.html</welcome-file>
     </welcome-file-list>
 
+    <!-- Spring doesn't work with the Jetty server in IDEA SuperDev mode as the -->
+    <!-- classpath loader is broken. -->
+
+<!--    <listener>-->
+<!--        <listener-class>com.clubdesk.gxt.server.TestContextListener</listener-class>-->
+<!--    </listener>-->
+
 </web-app>
